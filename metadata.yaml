@@ -1,0 +1,31 @@
+_repo: A-Sermon-Delivered-Before-His-Excellency-Edward-Everett-Governor-His-Honor-George-Hull-Lieute__40428
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hopkins, Mark
+    alias: Hopkins, Marcus
+    birthdate: 1802
+    deathdate: 1887
+    gutenberg_agent_id: '40618'
+    url: http://www.gutenberg.org/2009/agents/40618
+    wikipedia: http://en.wikipedia.org/wiki/Mark_Hopkins_(educator)
+description: ''
+gutenberg_issued: '2012-08-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40428'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sermons, American'
+- !lcc 'BV'
+- !lcsh 'Election sermons -- Massachusetts'
+title: A Sermon, Delivered Before His Excellency Edward Everett, Governor, His Honor
+  George Hull, Lieutenant Governor, the Honorable Council, and the Legislature of
+  Massachusetts, on the Anniversary Election, January 2, 1839
+url: http://www.gutenberg.org/ebooks/40428
