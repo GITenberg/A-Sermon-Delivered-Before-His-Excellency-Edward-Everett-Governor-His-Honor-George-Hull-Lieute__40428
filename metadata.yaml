@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40618
     wikipedia: http://en.wikipedia.org/wiki/Mark_Hopkins_(educator)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40428#A-Sermon-Delivered-Before-His-Excellency-Edward-Everett-Governor-His-Honor-George-Hull-Lieute_
 gutenberg_issued: '2012-08-06'
 gutenberg_type: Text
 identifiers:
